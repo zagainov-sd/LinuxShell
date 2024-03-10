@@ -1,2 +1,2 @@
-#Linux Shell
+# Linux Shell
 Аналог Shell, написанный на языке C и реализующий основные команды Linux. 
